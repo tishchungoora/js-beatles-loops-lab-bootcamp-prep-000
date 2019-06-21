@@ -9,3 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
   }
   return musicianAndInstrumentPlayed;
 }
+
+
+// Function John Lennon
