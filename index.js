@@ -21,7 +21,7 @@ function whileLoop(factsArray) {
   ];
   
   while (var i > 0) {
-    console.log(--number);
+    
   }
   return "done";
 }
