@@ -1,4 +1,5 @@
-// Function which builds a sentence from tw
+// Function which builds sentences from the elements of two arrays
+
 function theBeatlesPlay(musicians, instruments) {
   var musicianSentence;
   var musicianAndInstrumentPlayed = [];
