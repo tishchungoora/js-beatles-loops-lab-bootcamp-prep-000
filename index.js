@@ -10,5 +10,5 @@ function theBeatlesPlay(musicians, instruments) {
   return musicianAndInstrumentPlayed;
 }
 
+// Function for facts about John Lennon
 
-// Function John Lennon
