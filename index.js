@@ -1,7 +1,7 @@
 function theBeatlesPlay(musicians, instruments) {
   var musicianName;
   for (var i = 0; i < ??; i++) {
-    musician
+    musicianSentence = 
   }
-  return musicianAndInstrument
+  return musicianAndInstrumentSentence;
 }
