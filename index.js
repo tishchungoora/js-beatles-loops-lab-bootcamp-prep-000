@@ -22,7 +22,7 @@ const facts = [
 function johnLennonFacts(factsArray) {
   var i = 0;
   var transformedArray = [];
-  while (factsArray.length >= i) {
+  while (factsArray.length > i) {
     transformedArray.push(`${factsArray[i]}` + '!!!');
     i++;
   }
