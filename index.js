@@ -1,5 +1,5 @@
 function theBeatlesPlay(musicians, instruments) {
-  var a = [];
+  var musicianName;
   for (var i = 0; i < ??; i++) {
     
   }
