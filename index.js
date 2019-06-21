@@ -29,7 +29,7 @@ function johnLennonFacts(factsArray) {
   return transformedArray;
 }
 
-//
+// Function to add string to empty array
 
 function iLoveTheBeatles(number) {
   var a = [];
