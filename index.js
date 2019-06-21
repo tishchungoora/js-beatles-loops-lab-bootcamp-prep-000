@@ -21,7 +21,7 @@ const facts = [
   
 function johnLennonFacts(factsArray) {
   var i;
-  while (i > 0) {
+  while (factsArray.length > 0) {
   }
   return "done";
 }
