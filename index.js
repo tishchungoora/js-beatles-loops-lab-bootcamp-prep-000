@@ -20,8 +20,7 @@ function whileLoop(factsArray) {
   "He hated the sound of his own voice"
   ];
   
-  while (var i > 0) {
-    
+  while (i > 0) {
   }
   return "done";
 }
