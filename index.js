@@ -1,3 +1,4 @@
+// Function which builds a sentence from tw
 function theBeatlesPlay(musicians, instruments) {
   var musicianSentence;
   var musicianAndInstrumentPlayed = [];
