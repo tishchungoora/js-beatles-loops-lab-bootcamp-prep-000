@@ -12,3 +12,9 @@ function theBeatlesPlay(musicians, instruments) {
 
 // Function for facts about John Lennon
 
+function whileLoop(number) {
+  while (number > 0) {
+    console.log(--number);
+  }
+  return "done";
+}
