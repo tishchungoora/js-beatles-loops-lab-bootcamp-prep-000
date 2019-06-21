@@ -18,8 +18,9 @@ function whileLoop(factsArray) {
   "He was never a vegetarian",
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
-];
-  while (number > 0) {
+  ];
+  
+  while (var i > 0) {
     console.log(--number);
   }
   return "done";
